@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lovepreetsingh/.android/build-cache/4c4668189a4e2edcf53a381a68aace6502b68546/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="536228b2496030d983d01856aa56b4d71b57d0db">
+        <dex dex="/Users/lovepreetsingh/Downloads/CS5540_HW3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_161693f53610cf24102f43b3f88e1c9a77e7bbf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lovepreetsingh/Downloads/CS5540_HW3-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1be93a3387dae65b76ab0479c00281aec0769ba8">
+        <dex dex="/Users/lovepreetsingh/Downloads/CS5540_HW3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c70bad983925029e803cd08f3631054ae06872ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lovepreetsingh/Downloads/CS5540_HW3-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/lovepreetsingh/Downloads/CS5540_HW3-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b7dca569cbc495b48cd5902df9c21ec4b8b8ce21/classes.dex" />
+    </item>
+
+</items>
